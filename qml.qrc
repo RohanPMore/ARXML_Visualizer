@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>moduleeditor/qml/ModuleEditor.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>moduleeditor/qml/ParamBool.qml</file>
+        <file>moduleeditor/qml/ParamReference.qml</file>
+        <file>moduleeditor/qml/ParamString.qml</file>
+        <file>moduleeditor/qml/ParamEnum.qml</file>
+        <file>moduleeditor/qml/ParamNumeric.qml</file>
+    </qresource>
+</RCC>
